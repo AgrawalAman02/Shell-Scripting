@@ -1,2 +1,2 @@
-# Linux-Commands-Tutorial
-This repo contains the notes and commands which i learned about linux
+# Shell-Scriting
+This repo contains codes and handwritten notes of the shell script and linux 
